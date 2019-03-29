@@ -1,0 +1,19 @@
+Spécification détaillé des fonctionnalités
+
+Créer l'affichage d'une facture en y intégrant le nom du client, le nombre de de plate et le nom des plats.
+
+Pour une commande, si le nom du client ou les plats est innexistant, la commande est incorrect.
+Pour une commande, si le format d’un client, d’un plat ou d’une commande n’est pas respecté, la commande est incorrect.
+Pour une commande, si des chiffres sont erronés (prix du plat, quantité de plats commandés), la commande est incorrect.
+
+En sortie, une facture doit être affiché à l'écran(terminal) et éditée dans le fichier (Facture-du-date-heure.txt).
+
+Dans les sorties (Terminal, Facture-du-date-heure.txt), toute les commandes incorrectes ainsi que les détails de la commande 
+et la raison de l’erreur seront affichées avant les factures.
+
+Pour une commande, si le client a une facture de 0$, elle ne sera pas afficher dans le fichier de sortie.
+On retire les clients qui n'ont rien commendés du fichier de sortie.
+
+Les taxes sont appliquées a un taux de TPS: 5% et TVQ: 10%.
+
+Le sous-total, le montant des taxes ainsi que le total sont affichés dans la facture.
