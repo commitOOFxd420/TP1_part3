@@ -1,0 +1,11 @@
+| Bienvenue chez Barette! |
+Facture:
+
+Roger 10.5$
+Caroline 20.75$
+
+---------------------------------
+Sous-total : 31.25
+TPS : 1.5625
+TVQ : 3.125
+Total : 35.9375

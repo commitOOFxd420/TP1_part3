@@ -1,0 +1,27 @@
+Spécifications détaillés fonctionnalités 
+
+En sortie, on souhaite avoir une facture affichée à l’écran (terminal) et éditée dans le
+fichier (Facture-du-date-heure.txt)
+
+- Créer l'affichage d'une facture détaillé avec le nom du client, le nombre et le nom de plat que ce dernier a commandé.
+- Afficher le avant-taxe, les taxes et le montant total des taxes. 
+
+
+
+En revanche, les taxes sont maintenant appliquées (à raison de TPS 5% et TVQ 10%).
+
+- Calculer le total de la TPS et le stocker dans une variable afin de l'utiliser dans l'affichage de la facture.
+- Calculter le total de la TVQ et le stocker dans une variable afin de l'utiliser dans l'affichage de la facture.
+
+
+Si un client a une facture de 0$, sa facture n’est pas affichée dans le fichier de sortie
+
+Lors de la sauvegarde du fichier texte, on retire les clients n'ayant rien commandé ( ArrayList d'objet Plats de l'objet Client)
+
+
+
+Dans ces sorties (Terminal, Facture-du-date-heure.txt), vous devez afficher toutes les
+commandes incorrectes (les détails de la commande et la raison de l’erreur) avant les
+factures. L’ergonomie de l’affichage est laissée à votre discrétion.
+
+Lorsqu'une ligne de commande est invalide (ne contient pas les bonnes valeurs), on stock quand même les variables et on les affiche directement.

@@ -1,0 +1,28 @@
+| Bienvenue chez Barette! |
+Facture:
+
+
+---------------------------------
+Sous-total : 0.0
+TPS : 0.0
+TVQ : 0.0
+Total : 0.0
+| Bienvenue chez Barette! |
+Facture:
+
+
+---------------------------------
+Sous-total : 0.0
+TPS : 0.0
+TVQ : 0.0
+Total : 0.0
+| Bienvenue chez Barette! |
+Facture:
+
+Guy 9.75$
+
+---------------------------------
+Sous-total : 9.75
+TPS : 0.48750000000000004
+TVQ : 0.9750000000000001
+Total : 11.2125

@@ -1,0 +1,12 @@
+Mixime Oullette et Antoine Michaud
+
+Nous avons utiliser du programmé objet.
+Les variables possèdes des nom significatifs
+Les variables commencent par une minuscule
+Chaque mot dans une variable commence par une majuscule
+Il y a une ligne blanche avant la déclarati0on d'une méthode
+Il y a une ligne d'espace entre les if et les for
+Les accolades du bas sont alligné avec les if et les for qui leurs correspondent
+Nous avons utilisé des opérateurs d'affectation
+Nous avons utiliser le ! pour signifier ce qui est faux
+Il y a une seule déclaration d'entité par ligne.
